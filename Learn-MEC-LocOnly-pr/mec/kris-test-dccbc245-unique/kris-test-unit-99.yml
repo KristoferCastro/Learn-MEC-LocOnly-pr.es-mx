@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-test-dccbc245-unique.kris-test-unit-99
+title: "Descubre cómo: Seguimiento"
+metadata:
+  title: "Descubre cómo: Seguimiento"
+  description: "Descubre cómo: Seguimiento"
+  ms.date: 06/13/2021
+  author: mec-sa
+  ms.author: Microsoft
+durationInMinutes: 1
+content: "[!include[](includes/kris-test-unit-99.md)]"

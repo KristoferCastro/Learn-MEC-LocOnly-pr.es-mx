@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-test-dccbc245-unique.kris-unique-unit2
+title: "Punto de partida: Decálogo del estudiante"
+metadata:
+  title: "Punto de partida: Decálogo del estudiante"
+  description: "Punto de partida: Decálogo del estudiante"
+  ms.date: 06/13/2021
+  author: mec-sa
+  ms.author: Microsoft
+durationInMinutes: 1
+content: "[!include[](includes/kris-unique-unit2.md)]"

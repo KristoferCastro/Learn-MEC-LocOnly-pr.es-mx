@@ -1,0 +1,80 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-test-dccbc245-unique.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: Review on what you've learned
+  ms.date: 06/13/2021
+  author: mec-sa
+  ms.author: mec-sa
+durationInMinutes: 1
+quiz:
+  title: Knowledge check
+  questions:
+    - content: "Question En el modelo SAMR , la sustitución es:"
+      choices:
+        - content: Solo una etapa inicial,de la cual hay que salir rápido
+          isCorrect: true
+          explanation: Explanation sample
+        - content: Una etapa a la que inicial a la que siempre podemos volver
+          isCorrect: false
+          explanation: Explanation sample
+        - content: Una etapa que solo viven estudiantes más lentos
+          isCorrect: false
+          explanation: Explanation sample
+    - content: "En el modelo SAMR redefinir una tarea permite:"
+      choices:
+        - content: Que el estudiante realice tareas que lo conecten con el mundo
+          isCorrect: false
+          explanation: Explanation sample
+        - content: Creación de tareas que sin el uso de tecnología parecían inconcebibles
+          isCorrect: false
+          explanation: Explanation sample
+        - content: Ambas opciones son correctas
+          isCorrect: true
+          explanation: Explanation sample
+    - content: "Entregar a los estudiantes un decálogo al inicio del año  les permite:"
+      choices:
+        - content: Saber que se espera de ellos en el ámbito académico y las formas de
+            aprobar
+          isCorrect: false
+          explanation: Explanation sample
+        - content: Saber que se espera de ellos en cuanto a su disposición al trabajo ,
+            reglas de convivencia y conducta en el curso
+          isCorrect: true
+          explanation: Explanation sample
+        - content: Entender el uso que se le dará a la tecnología durante el curso
+          isCorrect: false
+          explanation: Explanation sample
+    - content: "En Microsoft Teams la mejor herramienta para dar retroalimentación a
+        tus estudiantes es:"
+      choices:
+        - content: Tareas
+          isCorrect: false
+          explanation: Explanation sample
+        - content: Llamada
+          isCorrect: true
+          explanation: Explanation sample
+        - content: Equipo
+          isCorrect: false
+          explanation: Explanation sample
+    - content: "Una ventaja de Teams es que permite agregar archivos creados con otras
+        herramientas:"
+      choices:
+        - content: Verdadero
+          isCorrect: true
+          explanation: Explanation sample
+        - content: Falso
+          isCorrect: false
+          explanation: Explanation sample
+    - content: "Con relación a la retroalimentación es cierto que:"
+      choices:
+        - content: Debe ser basada en la persona y no en su desempeño
+          isCorrect: false
+          explanation: Explanation sample
+        - content: Debe usar muchos elogios para afirmar la personalidad
+          isCorrect: false
+          explanation: Explanation sample
+        - content: Debe estar fundada en criterios conocidos
+          isCorrect: true
+          explanation: Explanation sample

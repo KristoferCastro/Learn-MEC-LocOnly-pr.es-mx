@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-test-dccbc245-unique.kris-unique-unit4
+title: "Descubre cómo: Varios formatos"
+metadata:
+  title: "Descubre cómo: Varios formatos"
+  description: "Descubre cómo: Varios formatos"
+  ms.date: 06/13/2021
+  author: mec-sa
+  ms.author: Microsoft
+durationInMinutes: 1
+content: "[!include[](includes/kris-unique-unit4.md)]"

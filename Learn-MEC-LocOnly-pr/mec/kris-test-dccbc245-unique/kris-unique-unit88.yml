@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-test-dccbc245-unique.kris-unique-unit88
+title: "Descubre cómo: La retroalimentación"
+metadata:
+  title: "Descubre cómo: La retroalimentación"
+  description: "Descubre cómo: La retroalimentación"
+  ms.date: 06/13/2021
+  author: mec-sa
+  ms.author: Microsoft
+durationInMinutes: 1
+content: "[!include[](includes/kris-unique-unit88.md)]"

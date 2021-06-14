@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn.mec.kris-test-dccbc245-unique
+title: Implementación de experiencias remotas de aprendizaje
+hidden: true
+metadata:
+  title: Implementación de experiencias remotas de aprendizaje
+  ms.date: 06/13/2021
+  author: mec-sa
+  ms.author: Microsoft
+  ms.topic: interactive-tutorial
+  description: "Objetivo: Revisar diversas acciones de implementación que
+    fortalezcan el aprendizaje de todos los estudiantes en contexto remoto
+    usando Teams. "
+abstract: ""
+summary: "Objetivo: Revisar diversas acciones de implementación que fortalezcan
+  el aprendizaje de todos los estudiantes en contexto remoto usando Teams. "
+prerequisites: |
+  None
+iconUrl: /learn/achievements/kris-test-dccbc245-unique.png
+levels:
+  - beginner
+products:
+  - office-teams
+roles:
+  - student
+units:
+  - learn.mec.kris-test-dccbc245-unique.introduction
+  - learn.mec.kris-test-dccbc245-unique.kris-unique-unit1
+  - learn.mec.kris-test-dccbc245-unique.kris-unique-unit2
+  - learn.mec.kris-test-dccbc245-unique.kris-unique-unit3
+  - learn.mec.kris-test-dccbc245-unique.kris-unique-unit4
+  - learn.mec.kris-test-dccbc245-unique.kris-test-unit-99
+  - learn.mec.kris-test-dccbc245-unique.kris-unique-unit88
+  - learn.mec.kris-test-dccbc245-unique.kris-unique-unit5
+  - learn.mec.kris-test-dccbc245-unique.knowledge-check
+  - learn.mec.kris-test-dccbc245-unique.summary
+badge:
+  uid: learn.mec.kris-test-dccbc245-unique.badge

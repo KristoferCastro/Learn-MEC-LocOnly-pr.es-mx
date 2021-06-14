@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-test-dccbc245-unique.kris-unique-unit1
+title: "Punto de partida: Modelo SAMR Integración de tecnología en educación"
+metadata:
+  title: "Punto de partida: Modelo samr integración de tecnología en educación"
+  description: "Punto de partida: Modelo SAMR Integración de tecnología en educación"
+  ms.date: 06/13/2021
+  author: mec-sa
+  ms.author: Microsoft
+durationInMinutes: 1
+content: "[!include[](includes/kris-unique-unit1.md)]"
