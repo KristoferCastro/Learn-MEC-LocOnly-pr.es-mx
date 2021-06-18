@@ -1,0 +1,144 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-4e086ebe.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: Review on what you've learned
+  ms.date: 06/15/2021
+  author: Minecraft
+  ms.author: Minecraft
+durationInMinutes: 1
+quiz:
+  title: Knowledge check
+  questions:
+    - content: Los desafíos de la construcción de clases ________.
+      choices:
+        - content: Involucran a los estudiantes en proyectos creativos
+          isCorrect: false
+          explanation: abc
+        - content: Proponen un desafío o una tarea
+          isCorrect: false
+          explanation: abc
+        - content: Pueden inspirar a los estudiantes con contenido y habilidades del siglo
+            XXI.
+          isCorrect: false
+          explanation: abc
+        - content: Todas las anteriores
+          isCorrect: true
+          explanation: abc
+    - content: "Solo se puede acceder a los desafíos de construcción desde el sitio
+        web de Minecraft: Edición Educativa"
+      choices:
+        - content: Verdadero
+          isCorrect: false
+          explanation: abc
+        - content: Falso
+          isCorrect: true
+          explanation: abc
+    - content: En el modo de juego, los desafíos de construcción se pueden encontrar
+        en la sección ________.
+      choices:
+        - content: Ver Mis Mundos
+          isCorrect: false
+          explanation: abc
+        - content: Ver Biblioteca
+          isCorrect: true
+          explanation: abc
+        - content: Ver Biomas
+          isCorrect: false
+          explanation: abc
+        - content: Ver Lecciones
+          isCorrect: false
+          explanation: abc
+    - content: "El sitio web de Minecraft Desafíos de Construcción de Clases: Edición
+        Educativa contiene ______."
+      choices:
+        - content: Una herramienta de investigación para encontrar desafíos
+          isCorrect: false
+          explanation: abc
+        - content: Desafíos de construcción de clases destacadas
+          isCorrect: false
+          explanation: abc
+        - content: Acceso a la biblioteca de desafíos de construcción de clases
+          isCorrect: false
+          explanation: abc
+        - content: Todas las anteriores
+          isCorrect: true
+          explanation: abc
+    - content: Al acceder a los desafíos de construcción desde el juego, la biblioteca
+        marca los desafíos resaltados.
+      choices:
+        - content: Verdadero
+          isCorrect: false
+          explanation: abc
+        - content: Falso
+          isCorrect: true
+          explanation: abc
+    - content: Cada desafío de construcción contiene ____________.
+      choices:
+        - content: Barra de herramientas, iconos y recuento de palabras
+          isCorrect: false
+          explanation: abc
+        - content: Límite de tiempo, límite de jugadores y lista de inventario
+          isCorrect: false
+          explanation: abc
+        - content: Video, instrucciones para completar y ejemplos
+          isCorrect: false
+          explanation: abc
+        - content: Descripción, objetivo y extensiones
+          isCorrect: true
+          explanation: abc
+    - content: Al ver los desafíos de construcción en el modo de juego, el jugador
+        puede buscar habilidades del siglo XXI.
+      choices:
+        - content: Verdadero
+          isCorrect: false
+          explanation: abc
+        - content: Falso
+          isCorrect: true
+          explanation: abc
+    - content: "Los Desafíos de Construcción de Minecraft: Edición Educativa se pueden
+        utilizar __________."
+      choices:
+        - content: Con estudiantes individuales
+          isCorrect: false
+          explanation: abc
+        - content: Con grupos reducidos
+          isCorrect: false
+          explanation: abc
+        - content: Con grupos completos
+          isCorrect: false
+          explanation: abc
+        - content: Todas las anteriores
+          isCorrect: true
+          explanation: abc
+    - content: "Minecraft: Edición Educativa apoya los desafíos de construcción de
+        aulas al lanzar nuevos desafíos de forma _____________."
+      choices:
+        - content: Diaria
+          isCorrect: false
+          explanation: abc
+        - content: Semanal
+          isCorrect: false
+          explanation: abc
+        - content: Mensual
+          isCorrect: true
+          explanation: abc
+        - content: Anual
+          isCorrect: false
+          explanation: abc
+    - content: Los mundos para los Desafíos de Construcción se pueden descargar
+        ___________.
+      choices:
+        - content: "Desde la pantalla de inicio de sesión de Minecraft: Edición educativa"
+          isCorrect: false
+          explanation: abc
+        - content: Desde el sitio web de Desafíos de Construcción de Clase
+          isCorrect: true
+          explanation: abc
+        - content: Desde la nube de acceso general de Microsoft
+          isCorrect: false
+          explanation: abc
+        - content: De la tienda de Microsoft
+          isCorrect: false
+          explanation: abc

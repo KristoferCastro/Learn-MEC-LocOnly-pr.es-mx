@@ -1,0 +1,35 @@
+### YamlMime:Module
+uid: learn.mec.kris-4e086ebe
+title: "Minecraft Aprenda a Jugar: Desafíos de Construcción de Clases"
+hidden: true
+metadata:
+  title: "Minecraft aprenda a jugar: Desafíos de construcción de clases"
+  ms.date: 06/15/2021
+  author: Minecraft
+  ms.author: citang
+  ms.topic: interactive-tutorial
+  description: "En este curso, exploraremos cómo Minecraft: Edición Educativa
+    apoya la enseñanza y el aprendizaje a través de una interfaz que involucra
+    la creatividad de los estudiantes y fortalece las habilidades del siglo 21
+    con actividades que son fáciles de implementar en el aula."
+abstract: ""
+summary: "En este curso, exploraremos cómo Minecraft: Edición Educativa apoya la
+  enseñanza y el aprendizaje a través de una interfaz que involucra la
+  creatividad de los estudiantes y fortalece las habilidades del siglo 21 con
+  actividades que son fáciles de implementar en el aula."
+prerequisites: |
+  None
+iconUrl: /learn/achievements/kris-4e086ebe.png
+levels:
+  - beginner
+products:
+  - office-365
+roles:
+  - student
+units:
+  - learn.mec.kris-4e086ebe.introduction
+  - learn.mec.kris-4e086ebe.unit-1
+  - learn.mec.kris-4e086ebe.knowledge-check
+  - learn.mec.kris-4e086ebe.summary
+badge:
+  uid: learn.mec.kris-4e086ebe.badge
