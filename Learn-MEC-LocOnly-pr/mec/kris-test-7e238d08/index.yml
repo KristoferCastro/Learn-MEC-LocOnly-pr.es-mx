@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn.mec.kris-test-7e238d08
+title: (Kris Copy) Diseño de experiencias de aprendizaje en contexto remoto
+hidden: true
+metadata:
+  title: (kris copy) diseño de experiencias de aprendizaje en contexto remoto
+  ms.date: 06/17/2021
+  author: Microsoft
+  ms.author: citang
+  ms.topic: interactive-tutorial
+  description: >-
+    Objetivo: Revisar elementos distintivos para el diseño de experiencias de
+    aprendizaje
+
+    remoto usando Teams.
+abstract: ""
+summary: >-
+  Objetivo: Revisar elementos distintivos para el diseño de experiencias de
+  aprendizaje
+
+  remoto usando Teams.
+prerequisites: |
+  None
+iconUrl: /learn/achievements/kris-test-7e238d08.png
+levels:
+  - beginner
+products:
+  - office-teams
+roles:
+  - student
+units:
+  - learn.mec.kris-test-7e238d08.introduction
+  - learn.mec.kris-test-7e238d08.unit-2
+  - learn.mec.kris-test-7e238d08.unit-3
+  - learn.mec.kris-test-7e238d08.unit-4
+  - learn.mec.kris-test-7e238d08.unit-5
+  - learn.mec.kris-test-7e238d08.unit-6
+  - learn.mec.kris-test-7e238d08.unit-7
+  - learn.mec.kris-test-7e238d08.knowledge-check
+  - learn.mec.kris-test-7e238d08.summary
+badge:
+  uid: learn.mec.kris-test-7e238d08.badge

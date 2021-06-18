@@ -1,0 +1,81 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-test-7e238d08.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: Review on what you've learned
+  ms.date: 06/17/2021
+  author: Microsoft
+  ms.author: Microsoft
+durationInMinutes: 1
+quiz:
+  title: Knowledge check
+  questions:
+    - content: Question OneCuando hablamos de tecnologías de comunicación sincrónica
+        nos referimos a
+      choices:
+        - content: Tecnologías diseñadas para interacciones en tiempo real vía audio o
+            audiovisual.
+          isCorrect: true
+          explanation: explanation sample
+        - content: "Tecnologías que favorecen el poder ofrecer instrucciones claras para
+            evitar confusiones. #2"
+          isCorrect: false
+          explanation: explanation sample
+        - content: Tecnologías que favorecen el intercambio y la colaboración.
+          isCorrect: false
+          explanation: explanation sample
+    - content: La pregunta por la tecnología en aprendizaje remoto, es la pregunta por
+      choices:
+        - content: los contenidos, los contenidos siempre serán más accesibles si usamos
+            tecnologías
+          isCorrect: false
+          explanation: explanation sample
+        - content: los aprendizajes. Los estudiantes aprenderán mejor en entornos con mas
+            herramientas.
+          isCorrect: false
+          explanation: explanation sample
+        - content: la arquitectura del entorno, los las interacciones con y entre
+            estudiantes, por la accesibilidad de los contenidos y las
+            actividades de aprendizaje
+          isCorrect: true
+          explanation: explanation sample
+    - content: Antes de diseñar una experiencia de aprendizaje remoto, es importante
+        conocer las herramientas tecnológicas disponibles
+      choices:
+        - content: Se recomienda realizar una EXPLORACIÓN libre haciendo pruebas invitando
+            a colegas a aprender en conjunto
+          isCorrect: true
+          explanation: explanation sample
+        - content: Se recomienda INVESTIGAR para resolver tus dudas, buscar tutoriales,
+            preguntar a tus colegas.
+          isCorrect: false
+          explanation: explanation sample
+        - content: Se recomienda SELECCIONAR las herramientas y opciones que te sean más
+            sencillas de ocupar
+          isCorrect: false
+          explanation: explanation sample
+    - content: Respecto de las actividades grupales, las mejores herramientas para eso
+        son
+      choices:
+        - content: Cuestionarios, chat y anuncioa
+          isCorrect: false
+          explanation: explanation sample
+        - content: Chat, One Note y Tareas
+          isCorrect: false
+          explanation: explanation sample
+        - content: Conversaciones, One Note y Reunirse.
+          isCorrect: true
+          explanation: explanation sample
+    - content: "Las herramientas recomendadas para acompañar a los estudiantes en sus
+        necesidades particulares o grupales son:"
+      choices:
+        - content: Uso de chat y video llamadas o &quot;reunirse&quot;
+          isCorrect: true
+          explanation: explanation sample
+        - content: Los espacios de conversación en publicaciones
+          isCorrect: false
+          explanation: explanation sample
+        - content: los comentarios a las &quot;Tareas&quot;
+          isCorrect: false
+          explanation: explanation sample

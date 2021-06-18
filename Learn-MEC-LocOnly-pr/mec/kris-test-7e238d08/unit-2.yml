@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-test-7e238d08.unit-2
+title: "Punto de partida: Preguntas fundamentales"
+metadata:
+  title: "Punto de partida: Preguntas fundamentales"
+  description: "Punto de partida: Preguntas fundamentales"
+  ms.date: 06/17/2021
+  author: Microsoft
+  ms.author: citang
+durationInMinutes: 1
+content: "[!include[](includes/unit-2.md)]"

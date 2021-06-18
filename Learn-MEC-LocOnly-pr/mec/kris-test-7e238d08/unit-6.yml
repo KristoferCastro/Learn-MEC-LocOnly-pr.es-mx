@@ -1,0 +1,11 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-test-7e238d08.unit-6
+title: "Descubre cómo: Arquitectura del curso"
+metadata:
+  title: "Descubre cómo: Arquitectura del curso"
+  description: "Descubre cómo: Arquitectura del curso"
+  ms.date: 06/17/2021
+  author: Microsoft
+  ms.author: citang
+durationInMinutes: 1
+content: "[!include[](includes/unit-6.md)]"
