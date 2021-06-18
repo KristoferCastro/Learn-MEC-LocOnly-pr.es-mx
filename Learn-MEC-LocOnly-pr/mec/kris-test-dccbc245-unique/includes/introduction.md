@@ -1,6 +1,6 @@
 
 
-**Información general**
+**Información general** 
 
 El propósito de este curso es revisar diversas estrategias de implementación que fortalezcan el aprendizaje de todos los estudiantes en contexto remoto usando Teams. 
 
